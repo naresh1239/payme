@@ -16,6 +16,7 @@ function App() {
   <Route path="/Service" component={Service}></Route>
   <Route path="/Contact" component={Contactme}></Route>
 </Switch>
+<Home/>
 </>
   );
 }
