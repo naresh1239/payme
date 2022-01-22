@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/payme/static/css/main.25a1119c.chunk.css",
-    "main.js": "/payme/static/js/main.db2d4867.chunk.js",
-    "main.js.map": "/payme/static/js/main.db2d4867.chunk.js.map",
+    "main.js": "/payme/static/js/main.26565671.chunk.js",
+    "main.js.map": "/payme/static/js/main.26565671.chunk.js.map",
     "runtime-main.js": "/payme/static/js/runtime-main.c42f16bf.js",
     "runtime-main.js.map": "/payme/static/js/runtime-main.c42f16bf.js.map",
     "static/js/2.053d1e77.chunk.js": "/payme/static/js/2.053d1e77.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c42f16bf.js",
     "static/js/2.053d1e77.chunk.js",
     "static/css/main.25a1119c.chunk.css",
-    "static/js/main.db2d4867.chunk.js"
+    "static/js/main.26565671.chunk.js"
   ]
 }
