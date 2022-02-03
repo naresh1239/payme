@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/payme/static/css/main.25a1119c.chunk.css",
-    "main.js": "/payme/static/js/main.26565671.chunk.js",
-    "main.js.map": "/payme/static/js/main.26565671.chunk.js.map",
+    "main.css": "/payme/static/css/main.a66b4e24.chunk.css",
+    "main.js": "/payme/static/js/main.9cd21094.chunk.js",
+    "main.js.map": "/payme/static/js/main.9cd21094.chunk.js.map",
     "runtime-main.js": "/payme/static/js/runtime-main.c42f16bf.js",
     "runtime-main.js.map": "/payme/static/js/runtime-main.c42f16bf.js.map",
     "static/js/2.053d1e77.chunk.js": "/payme/static/js/2.053d1e77.chunk.js",
     "static/js/2.053d1e77.chunk.js.map": "/payme/static/js/2.053d1e77.chunk.js.map",
     "index.html": "/payme/index.html",
-    "static/css/main.25a1119c.chunk.css.map": "/payme/static/css/main.25a1119c.chunk.css.map",
+    "static/css/main.a66b4e24.chunk.css.map": "/payme/static/css/main.a66b4e24.chunk.css.map",
     "static/js/2.053d1e77.chunk.js.LICENSE.txt": "/payme/static/js/2.053d1e77.chunk.js.LICENSE.txt",
     "static/media/for-2.812560f4.jpg": "/payme/static/media/for-2.812560f4.jpg",
     "static/media/for-3.c1eb7ad5.jpg": "/payme/static/media/for-3.c1eb7ad5.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c42f16bf.js",
     "static/js/2.053d1e77.chunk.js",
-    "static/css/main.25a1119c.chunk.css",
-    "static/js/main.26565671.chunk.js"
+    "static/css/main.a66b4e24.chunk.css",
+    "static/js/main.9cd21094.chunk.js"
   ]
 }
