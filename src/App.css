@@ -175,3 +175,12 @@ position: relative;
 .home{
     color: #0000008c !important;
 }
+
+::-webkit-scrollbar{
+    width: 9px;
+  
+  }
+  ::-webkit-scrollbar-thumb{
+  background-color: rgb(149, 148, 149);
+  border-radius: 15px;
+  }

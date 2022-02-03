@@ -7,7 +7,7 @@ const Work = () => {
 
     return (
         <>
-           <section className="work ">
+           <section className="work mx-2">
                <div className="container shadow bg-white my-md-0 my-5">
                <div className="row py-5 ">
                 <div className="col-12 text-center ">
@@ -15,9 +15,19 @@ const Work = () => {
                 </div>
             </div>
        
-                <div className="row pb-5">
+                <div className="row pb-5 ">
 
-
+                {
+                     workdata.map((e)=>{
+                         return(
+                        <div className="col-lg-4 col-12 px-3 text-center">
+                        <i className={`icon ${e.logo}`}></i>
+                     <h4 className='font-monospace pt-2'>{e.title}</h4>
+                     <p className='font-monospace'>{e.info}</p>
+                    </div>
+                         )
+                     })
+                 }
                 </div>
            
                 
